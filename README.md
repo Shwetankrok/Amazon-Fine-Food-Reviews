@@ -63,7 +63,7 @@ https://www.kaggle.com/snap/amazon-fine-food-reviews/kernels
 <br><b>13.Built LSTM classiifer using pretrained glove vectors to predict reviews with Hyperparameter Tuning.</b></br>
 <br><b>14.Evaluated all models with various metrics like Accuracy, Precision, Recall and F1-Score.</b></br>
 <br><b>15.Summary all models performance scores and conclusion.</b></br>
-![image](https://user-images.githubusercontent.com/55294349/148739698-806db056-bd01-4d99-9536-fff88c5b607e.png)
+<br>![image](https://user-images.githubusercontent.com/55294349/148739698-806db056-bd01-4d99-9536-fff88c5b607e.png)</br>
 
 
 
